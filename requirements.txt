@@ -1,0 +1,3 @@
+docxtpl
+PyGithub
+qrcode[pil]
