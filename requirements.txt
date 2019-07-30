@@ -1,3 +1,4 @@
 docxtpl
 PyGithub
 qrcode[pil]
+xlrd
